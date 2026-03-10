@@ -240,7 +240,7 @@ Esta aplicación consume la API [**Gutendex**](https://gutendex.com/), que index
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor: Luciana Guzman
 
 Desarrollado como parte del **Challenge LiterAlura** — Oracle Next Education (ONE) + Alura Latam.
 

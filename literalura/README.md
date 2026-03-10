@@ -23,7 +23,7 @@
 - [Cómo ejecutar](#-cómo-ejecutar)
 - [Demostración](#-demostración)
 - [API Gutendex](#-api-gutendex)
-- [Autor](#-autor)
+
 
 ---
 
